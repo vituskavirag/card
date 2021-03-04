@@ -21,7 +21,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: url('https://i.imgur.com/jGpG9BO.jpg') no-repeat center center fixed;
+  background: url('assets/háttérkép.jpg') no-repeat center center fixed;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
